@@ -1,6 +1,6 @@
 ### "Olá pessoas!" \o/ 👋
 
-My name is Danilo Righetto, and I'm from Brazil (🇧🇷). I've been working as Back-End Developer since 2015. Actually I work as a Back End Engineer at [Laborit](https://laborit.com.br/) and my **LinkedIn** profile can be found here: [danilo-righetto](https://www.linkedin.com/in/danilo-righetto/) :)
+My name is Danilo Righetto, and I'm from Brazil (🇧🇷). I've been working as Back-End Developer since 2015. Actually I am currently repositioning myself in the IT market and my **LinkedIn** profile can be found here: [danilo-righetto](https://www.linkedin.com/in/danilo-righetto/) :)
 
 Would you like to find me?
 
