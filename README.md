@@ -1,6 +1,12 @@
+<code>System.out.println("Welcome to my github!😆")</code>
+<hr>
+
 ### "Olá pessoas!" \o/ 👋
 
 My name is Danilo Righetto, and I'm from Brazil (🇧🇷). I've been working as Back-End Developer since 2015. Actually I am currently repositioning myself in the IT market and my **LinkedIn** profile can be found here: [danilo-righetto](https://www.linkedin.com/in/danilo-righetto/) :)
+
+<p>👨‍💻 Senior Software Engineer at <a href="https://www.tradeupgroup.com/" target="blank_">TradeUp Group</a></p>
+<p>🎓 Graduated in Systems Analysis and Development at <a href="https://www.impacta.edu.br/" target="blank_">Faculdade Impacta</a></p>
 
 Would you like to find me?
 
@@ -13,8 +19,11 @@ Would you like to find me?
 <!-- COURSES:START -->
 - [Curso de React.Js + Next.Js completo do básico ao avançado](https://www.udemy.com/course/curso-de-reactjs-nextjs-completo-do-basico-ao-avancado/)
 - [Curso de Python 3 do Básico Ao Avançado (com projetos reais)](https://www.udemy.com/course/python-3-do-zero-ao-avancado/)
-- [Fundamentos ITSM com base no ITILv3](https://www.udemy.com/course/curso-itil-foundation-v3/)
 <!-- COURSES:END -->
+
+____
+
+[![My Skills](https://skillicons.dev/icons?i=php,laravel,ts,nodejs,nestjs,java,python,spring,kafka,aws,redis,postgresql,mysql,docker,kubernetes,mongodb,elasticsearch,jenkins)](https://skillicons.dev)
 
 ____
 
