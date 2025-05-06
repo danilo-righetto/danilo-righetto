@@ -5,7 +5,7 @@
 
 My name is Danilo Righetto, and I'm from Brazil (🇧🇷). I've been working as Back-End Developer since 2015. Actually I am currently repositioning myself in the IT market and my **LinkedIn** profile can be found here: [danilo-righetto](https://www.linkedin.com/in/danilo-righetto/) :)
 
-<p>👨‍💻 Senior Software Engineer at <a href="https://www.tradeupgroup.com/" target="blank_">TradeUp Group</a></p>
+<p>👨‍💻 Tech Lead at <a href="https://www.tradeupgroup.com/" target="blank_">TradeUp Group</a></p>
 <p>🎓 Graduated in Systems Analysis and Development at <a href="https://www.impacta.edu.br/" target="blank_">Faculdade Impacta</a></p>
 
 Would you like to find me?
